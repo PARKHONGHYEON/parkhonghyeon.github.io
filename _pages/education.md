@@ -21,7 +21,6 @@ author_profile: true
 
 ### Research Outputs
 
-**Conference Publication**
 
 *A mm-Sized Implantable Glucose Sensor Using a Fluorescent Hydrogel*
 
