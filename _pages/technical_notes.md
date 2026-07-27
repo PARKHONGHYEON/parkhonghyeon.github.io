@@ -11,7 +11,7 @@ This section contains personal technical notes and study materials related to An
 
 ## Bandgap Reference (BGR)
 
-Topics related to bandgap reference design, temperature compensation, startup circuits, and verification methodologies.
+Topics related to bandgap reference design, single-point temperature calibration, plastic package effect
 
 📄 [View Technical Note](/files/BGR_Technical_Note.pdf)
 
