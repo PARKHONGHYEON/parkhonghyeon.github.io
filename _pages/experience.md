@@ -17,7 +17,7 @@ author_profile: true
 * Circuit verification, silicon debugging, and performance validation
 * Layout guidance and review to minimize parasitic effects and optimize analog performance
 * ESD circuit design and reliability verification
-* Test support for silicon validation and characterization
+* Test plan development and test support for silicon validation and characterization
 
 ### Projects
 
