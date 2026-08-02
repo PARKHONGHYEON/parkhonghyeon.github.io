@@ -25,19 +25,19 @@ author_profile: true
 
 *A mm-Sized Implantable Glucose Sensor Using a Fluorescent Hydrogel*
 
-* Authors: Hyeonkeon Lee, Honghyeon Park, Taein Kim, Mi Song Nam, Yun Jung Heo*, Sanghoek Kim*
-* Conference: 2023 IEEE RFIC Symposium
-* Role: Co-Author
-* Publication: IEEE Xplore
+  * Authors: Hyeonkeon Lee, Honghyeon Park, Taein Kim, Mi Song Nam, Yun Jung Heo*, Sanghoek Kim*
+  * Conference: 2023 IEEE RFIC Symposium
+  * Role: Co-Author
+  * Publication: IEEE Xplore
 
 **Patent**
 
 *Measurement System and Method for Medical Device Expansion Pressure*
 
-* Inventors: Sang-Dae Kang, Sanghoek Kim, Jeongho Park, Honghyeon Park, Kwon-Ran Gu
-* Application No.: 10-2020-0077555
-* Application Date: Jun. 25, 2020
-* Country: Republic of Korea
+  * Inventors: Sang-Dae Kang, Sanghoek Kim, Jeongho Park, Honghyeon Park, Kwon-Ran Gu
+  * Application No.: 10-2020-0077555
+  * Application Date: Jun. 25, 2020
+  * Country: Republic of Korea
 
 ### MPW Tape-Out Experience
 
@@ -48,8 +48,8 @@ author_profile: true
 
 ### Awards
 
-**Best Capstone Design Project Award**
+*Best Capstone Design Project Award*
 
-* Department of Electronic Engineering, Kyung Hee University
-* 2019 Fall Semester
-* Awarded for outstanding achievement in the Senior Capstone Design Project
+  * Department of Electronic Engineering, Kyung Hee University
+  * 2019 Fall Semester
+  * Awarded for outstanding achievement in the Senior Capstone Design Project
