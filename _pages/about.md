@@ -53,10 +53,6 @@ Professional experience and technical contributions.
 
  personal technical notes and study materials
 
-[Go to Projects](/technical_notes/)
+[Go to Technical_notes](/technical_notes/)
 
-## Resume
 
-Detailed curriculum vitae.
-
-[Download Resume](/files/Honghyeon_Park_Resume.pdf)
