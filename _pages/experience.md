@@ -23,10 +23,10 @@ author_profile: true
 
 **Fuel Gauge IC (1-Cell & 2-Cell Solutions)**
 
-* Designed Sigma-Delta ADC for battery monitoring applications
 * Participated in system-level architecture development and analog front-end design
 * Designed and verified key analog circuit blocks:
 
+  * Sigma Delta ADC (ADC)
   * Low-Dropout Regulator (LDO)
   * Bandgap Reference (BGR)
   * Under-Voltage Lockout (UVLO)
