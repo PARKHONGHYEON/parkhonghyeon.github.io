@@ -49,11 +49,11 @@ Professional experience and technical contributions.
 
 [Go to Experience](/experience/)
 
-## Projects
+## Technical_Notes
 
-Selected analog circuit design and verification projects.
+ personal technical notes and study materials
 
-[Go to Projects](/portfolio/)
+[Go to Projects](/technical_notes/)
 
 ## Resume
 
