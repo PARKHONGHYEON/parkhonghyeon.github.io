@@ -14,7 +14,7 @@ To respect confidentiality and intellectual property, technical details and proj
 
 If you have any questions or would like to discuss these topics further, please feel free to contact me via email.
 
-## Bandgap Reference (BGR)
+## Bandgap Reference (BGR) - 26/08/01 updated
 
 Topics related to bandgap reference design, single-point temperature calibration, plastic package effect
 
