@@ -24,11 +24,11 @@ Topics related to bandgap reference , bandgap referecen error, single-point temp
 
 ---
 
-## Sigma-Delta ADC - will be updated
+## Sigma-Delta ADC - 26/08/01 updated
 
 Topics related to oversampling, noise shaping, modulator architecture, decimation filtering, and performance analysis.
 
-📄 [View Technical Note](/files/SigmaDeltaADC_Technical_Note.pdf)
+📄 [View Technical Note](/files/SDM_Technical_Note.pdf)
 
 ---
 
