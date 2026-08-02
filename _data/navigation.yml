@@ -17,8 +17,6 @@ main:
   - title: "Experience"
     url: "/experience/"
 
-  - title: "Projects"
-    url: "/portfolio/"
 
   - title: "Technical_Notes"
     url: "/technical_notes/"
