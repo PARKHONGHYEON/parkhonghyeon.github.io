@@ -1,4 +1,3 @@
-
 ---
 permalink: /technical_notes/
 title: "Technical Notes"
@@ -49,4 +48,4 @@ The following technical notes are currently under development and will be publis
 
 - Sigma-Delta ADC Design with Python
 - Switched-Capacitor Amplifier Design
-```
+
