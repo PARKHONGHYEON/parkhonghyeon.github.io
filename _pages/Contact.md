@@ -4,7 +4,6 @@ title: "Contact"
 author_profile: true
 ---
 
-# Contact
 
 Email
 
