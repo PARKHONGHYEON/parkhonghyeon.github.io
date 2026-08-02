@@ -5,9 +5,14 @@ title: "Technical Notes"
 author_profile: true
 ---
 
-# Technical Notes
 
 This section contains personal technical notes and study materials related to Analog & Mixed-Signal IC Design.
+
+The materials presented here are based on publicly available resources, including academic papers, textbooks, and general theoretical concepts that I have studied and organized for my own learning.
+
+To respect confidentiality and intellectual property, technical details and project information related to my work at my current employer are not included in these notes.
+
+If you have any questions or would like to discuss these topics further, please feel free to contact me via email.
 
 ## Bandgap Reference (BGR)
 
