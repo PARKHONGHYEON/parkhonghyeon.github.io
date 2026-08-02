@@ -13,6 +13,7 @@ author_profile: true
 ### Thesis
 
 > Design of Wireless Implantable Device with Ultra-Compact and Low-Power Detecting Bio-Signals Using Multiple Sensors
+> 📄 [Thesis presentation](/files/MS_Thesis_presentation.pdf)
 
 ### Laboratory
 
