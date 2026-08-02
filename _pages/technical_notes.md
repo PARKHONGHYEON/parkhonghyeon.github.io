@@ -16,19 +16,19 @@ To respect confidentiality and intellectual property, technical details and proj
 
 If you have any questions or would like to discuss these topics further, please feel free to contact me via email.
 
-## Bandgap Reference (BGR) - 26/08/01 updated
+## Bandgap Reference (BGR) - 26/08/01 v0 updated
 
 Topics related to bandgap reference , bandgap referecen error, single-point temperature calibration, plastic package effect
 
-📄 [View Technical Note](/files/BGR_Technical_Note.pdf)
+📄 [View BGR Note](/files/BGR_Technical_Note.pdf)
 
 ---
 
-## Sigma-Delta ADC - 26/08/01 updated
+## Sigma-Delta ADC - 26/08/01 v0 updated
 
 Topics related to oversampling, noise shaping, modulator architecture, decimation filtering, and performance analysis.
 
-📄 [View Technical Note](/files/SDM_Technical_Note.pdf)
+📄 [View SDM Note](/files/SDM_Technical_Note.pdf)
 
 ---
 
