@@ -38,7 +38,7 @@ Topics related to oversampling, noise shaping, modulator architecture, decimatio
 
 Topics related to PLL architecture, loop stability, phase noise, jitter analysis, and frequency synthesis.
 
-📄 [View SDM Note](/files/PLL_Technical_Note.pdf)
+📄 [View PLL Note](/files/PLL_Technical_Note.pdf)
 
 
 ---
