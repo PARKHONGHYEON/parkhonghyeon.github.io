@@ -38,6 +38,7 @@ Topics related to oversampling, noise shaping, modulator architecture, decimatio
 
 Topics related to PLL architecture, loop stability 
 Will be update about jiiter, phase noise
+
 📄 [View PLL Note](/files/PLL_Technical_Note.pdf)
 
 
