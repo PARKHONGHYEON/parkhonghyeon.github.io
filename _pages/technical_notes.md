@@ -36,8 +36,7 @@ Topics related to oversampling, noise shaping, modulator architecture, decimatio
 
 ## Phase-Locked Loop (PLL) - 26/08/15 v0 Updated
 
-Topics related to PLL architecture, loop stability, phase noise, jitter analysis, and frequency synthesis.
-
+Topics related to PLL architecture, loop stability
 📄 [View PLL Note](/files/PLL_Technical_Note.pdf)
 
 
